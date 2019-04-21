@@ -24,7 +24,18 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+"showdashboard": true,
+        "dashboards": [
+            {
+                "name": "Local Web Browser",
+                "port": 8080
+            },
+            {
+                "name": "OpenShift Console",
+                "port": 8443
+            }
+]
   },
   "backend": {
     "imageid": "openshift-middleware"
