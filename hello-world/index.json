@@ -38,6 +38,6 @@
 ]
   },
   "backend": {
-    "imageid": "openshift-3-11-middleware"
+    "imageid": "openshift-3-11"
   }
 }
