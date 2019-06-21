@@ -1,6 +1,8 @@
 {
-  "title": "Hello World",
-  "description": "Katacoda First Trial",
+  "title": "getting-started-with-strimzi",
+  "description": "Getting Started With Strimzi",
+  "difficulty": "hard",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
@@ -17,25 +19,15 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "initCourse.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
-"showdashboard": true,
-        "dashboards": [
-            {
-                "name": "Local Web Browser",
-                "port": 8080
-            },
-            {
-                "name": "OpenShift Console",
-                "port": 8443
-            }
-]
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "openshift-3-11"
