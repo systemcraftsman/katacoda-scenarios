@@ -27,9 +27,9 @@
     }
   },
   "environment": {
+    "uilayout": "editor-terminal",
     "hideintro": true,
-    "hidefinish": true,
-    "uilayout": "editor-terminal"
+    "hidefinish": true
   },
   "backend": {
     "imageid": "openshift-3-11"
