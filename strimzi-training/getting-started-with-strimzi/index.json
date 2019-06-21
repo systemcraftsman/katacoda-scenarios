@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Installing Cluster Operator",
+        "title": "Installing the Cluster Operator",
         "text": "step1.md"
       },
       {
@@ -27,7 +27,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboard": "Dashboard"
   },
   "backend": {
     "imageid": "openshift-3-11"
