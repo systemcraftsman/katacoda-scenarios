@@ -20,7 +20,7 @@
     ],
     "intro": {
       "text": "intro.md",
-      "code": "initCourse.sh"
+      "code": "set-env.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -28,10 +28,13 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
+    "uieditorpath": "/root/strimzi-0.12.0/",
     "showdashboard": true,
-    "dashboard": "Dashboard"
+    "dashboard": "Web Console"
   },
   "backend": {
-    "imageid": "openshift-3-11"
+    "trainingid": "openshift-3-11",
+    "imageid": "openshift-3-11",
+    "port": 8443
   }
 }
