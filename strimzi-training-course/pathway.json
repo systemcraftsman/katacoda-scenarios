@@ -1,0 +1,12 @@
+{
+  "title": "Strimzi Training Course",
+  "description": "Strimzi Training Course",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "course_id": "getting-started-with-strimzi",
+      "title": "Getting Started With Strimzi",
+      "description": "Katacoda Scenario Example"
+    }
+  ]
+}
