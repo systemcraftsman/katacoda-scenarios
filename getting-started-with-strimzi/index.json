@@ -1,5 +1,5 @@
 {
-  "title": "getting-started-with-strimzi",
+  "title": "Getting Started With Strimzi",
   "description": "Getting Started With Strimzi",
   "difficulty": "hard",
   "time": "10 minutes",
@@ -33,6 +33,3 @@
     "imageid": "openshift-3-11"
   }
 }
-
-
-
