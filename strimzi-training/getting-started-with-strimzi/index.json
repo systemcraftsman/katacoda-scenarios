@@ -26,8 +26,9 @@
       "text": "finish.md"
     }
   },
-  "files": ["strimzi-0.12.0"],
   "environment": {
+    "hideintro": true,
+    "hidefinish": true,
     "uilayout": "editor-terminal"
   },
   "backend": {
